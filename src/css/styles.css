@@ -1,0 +1,59 @@
+body {
+    width: 100%;
+    background-image: url(/src/assets/pxfuel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.form{
+    padding-bottom: 10%;
+}
+
+.container{
+    max-width: 95%;
+}
+
+.text-center{
+    color: white;
+    margin-bottom: 10%;
+}
+
+.h2, h2{
+    color: white;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.form-label {
+    width: 100%;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.col-6{
+    padding: 4%;
+}
+
+.btn{
+    margin-left: 15px; 
+}
+
+.form-control{
+    width: 100%;
+    font-size: 20px;
+}
+
+.col-auto{
+    margin-top: 6%;
+}
+
+.btn-info{
+    font-size: 22px;
+    margin-top: 100px;
+}
+
+.stack-large {
+    color:white;
+}
